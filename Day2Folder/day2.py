@@ -5,7 +5,7 @@ print("hello from day2")
 ########################################################################
 # Task 1:
 print("Loop start")
-for i in range(100):
+for i in range(20):
     print("i will not sling mud at my friends again")
 print("Loop end")
 
