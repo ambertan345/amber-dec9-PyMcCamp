@@ -61,4 +61,4 @@ addition(3456, 848)
 # Additional exercises:
 
 for i in range(100):
-    print("skibidi ohio mega gyatt")
+    print("s")
