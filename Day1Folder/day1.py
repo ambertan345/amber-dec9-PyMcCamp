@@ -27,7 +27,7 @@
 # Task 4:
 variable1 = 3
 variable2 = 5
-print()
+print(variable1 + variable2)
 
 
 ########################################################################
