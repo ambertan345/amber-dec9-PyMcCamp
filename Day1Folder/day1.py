@@ -36,7 +36,7 @@ print(variable1 + variable2)
 name = "amber"
 food = "ramen"
 print("my name is " + name)
-print("")
+print("i like to eat " + food)
 
 ########################################################################
 # Task 6:
