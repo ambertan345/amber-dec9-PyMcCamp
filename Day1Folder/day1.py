@@ -34,7 +34,8 @@ print(variable1 + variable2)
 # Task 5:
 
 name = "amber"
-
+food = "ramen"
+print("my name is")
 
 ########################################################################
 # Task 6:
