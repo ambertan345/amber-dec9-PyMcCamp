@@ -20,6 +20,7 @@ animal1 = "unicorn"
 animal2 = "lion"
 animal3 = "cat"
 animal4 = "AnExoticGinger"
+print(animal1, snimal)
 
 
 ########################################################################
