@@ -16,8 +16,9 @@ print("if i has 2000 as a reward, i would buy food & lego and a ps5 then invest 
 
 ########################################################################
 # Task 3:
-animal1 = ""
+animal1 = "unicorn"
 animal2 = "lion"
+animal3 = ""
 
 
 ########################################################################
