@@ -9,8 +9,8 @@
 
 ########################################################################
 # Task 2:
-print("my name is amber")
-print("im 14")
+# print("my name is amber")
+# print("im 14")
 print("i go to chij st.nicholas girls school secondary")
 print("if i has 2000 as a reward, i would buy food & lego and a ps5 then invest the rest in bitcoin")
 
@@ -44,8 +44,8 @@ print("if i has 2000 as a reward, i would buy food & lego and a ps5 then invest 
 def selfIntro():
     print("my name is amber")
     print("im 14")
-print("i go to chij st.nicholas girls school secondary")
-print("if i has 2000 as a reward, i would buy food & lego and a ps5 then invest the rest in bitcoin")
+    print("i go to chij st.nicholas girls school secondary")
+    print("if i has 2000 as a reward, i would buy food & lego and a ps5 then invest the rest in bitcoin")
 
     
 
