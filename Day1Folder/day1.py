@@ -14,12 +14,9 @@ print("im 14")
 print("i go to chij st.nicholas girls school secondary")
 print("if i has 2000 as a reward, i would buy food & lego and a ps5 then invest the rest in bitcoin")
 
-animal1 = "skibiid"
-animal2 = "lion"
-
 ########################################################################
 # Task 3:
-animal1 = "skibiid"
+animal1 = ""
 animal2 = "lion"
 
 
