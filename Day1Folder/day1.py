@@ -20,7 +20,7 @@ animal1 = "unicorn"
 animal2 = "lion"
 animal3 = "cat"
 animal4 = "AnExoticGinger"
-print(animal1, snimal)
+print(animal1, animal2, animal3, animal4)
 
 
 ########################################################################
