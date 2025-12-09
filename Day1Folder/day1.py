@@ -33,15 +33,17 @@
 ########################################################################
 # Task 5:
 
-name = "amber"
-food = "ramen"
-print("my name is " + name)
-print("i like to eat " + food)
+# name = "amber"
+# food = "ramen"
+# print("my name is " + name)
+# print("i like to eat " + food)
 
 ########################################################################
 # Task 6:
 
-
+def selfIntro():
+    print("")
+    
 
 ########################################################################
 # Task 7:
