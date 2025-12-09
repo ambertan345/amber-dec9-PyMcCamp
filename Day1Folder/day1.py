@@ -35,7 +35,8 @@ print(variable1 + variable2)
 
 name = "amber"
 food = "ramen"
-print("my name is")
+print("my name is " + name)
+print("")
 
 ########################################################################
 # Task 6:
