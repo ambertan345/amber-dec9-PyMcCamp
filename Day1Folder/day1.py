@@ -19,7 +19,7 @@ print("if i has 2000 as a reward, i would buy food & lego and a ps5 then invest 
 animal1 = "unicorn"
 animal2 = "lion"
 animal3 = "cat"
-animal4 = "an"
+animal4 = "an_exotic_ginger"
 
 
 ########################################################################
