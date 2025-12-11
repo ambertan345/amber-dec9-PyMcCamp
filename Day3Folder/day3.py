@@ -8,7 +8,8 @@ print("hello from day3")
 # print(myName)
  
 name = input("What is your name? ")
-title = ip
+title = input("What is your title? ")
+
 
 ########################################################################
 # Task 2:
