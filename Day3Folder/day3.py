@@ -7,7 +7,8 @@ print("hello from day3")
 # myName = input("What is your name? ")
 # print(myName)
  
-
+name = input("What is your name? ")
+title = ip
 
 ########################################################################
 # Task 2:
