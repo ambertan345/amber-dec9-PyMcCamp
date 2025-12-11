@@ -4,8 +4,8 @@ print("hello from day3")
 
 ########################################################################
 # Task 1:
-myName = input("What is your name? ")
-print(myName)
+# myName = input("What is your name? ")
+# print(myName)
  
 
 
