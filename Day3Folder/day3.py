@@ -22,12 +22,12 @@
 
 ########################################################################
 # Task 3:
-age1 = input("What is your age? ")
-age2 = input("What is your age? ")
-if age1 > age2:
-    print(age1 + " is bigger than " + age2)
+age1 = input("What is your age, person A?  ")
+age2 = input("What is your age, person B? ")
+if int(age1) > int(age2):
+    print("person A is older than person B")
 else:
-    print(age1 + " is smaller than " + age2)
+    print("person A is younger than person B")
 
 ########################################################################
 # Task 4:
