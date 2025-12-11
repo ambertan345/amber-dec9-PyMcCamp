@@ -16,7 +16,7 @@ print("hello from day3")
 # Task 2:
 num1 = input(str("What is your first number? "))
 num2 = input(str("What is your second number? "))
-sum = str(num1 + num2)
+sum = num1 + num2
 print(num1 + " + " + num2 + " = " + sum)
 
 
