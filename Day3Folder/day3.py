@@ -10,7 +10,7 @@ print("hello from day3")
 name = input("What is your name? ")
 title = input("What is your title? ")
 command = input("What is your command? ")
-print(title + )
+print(title + name + "commands the peasants to " + command)
 
 ########################################################################
 # Task 2:
