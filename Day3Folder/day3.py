@@ -25,7 +25,9 @@ print(num1 + " + " + num2 + " = " + str(sum))
 age1 = input("What is your age? ")
 age2 = input("What is your age? ")
 if age1 > age2:
-    print("")
+    print(age1 + " is bigger than " + age2)
+else:
+    print(age1)
 
 ########################################################################
 # Task 4:
