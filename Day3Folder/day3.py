@@ -15,6 +15,8 @@ print( title + " " + name + " commands the peasants to " + command)
 ########################################################################
 # Task 2:
 num1 = input("What is your first number? ")
+num2 = input("What is your second number? ")
+
 
 
 ########################################################################
