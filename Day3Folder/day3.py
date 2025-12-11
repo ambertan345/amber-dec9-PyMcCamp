@@ -27,7 +27,7 @@ age2 = input("What is your age? ")
 if age1 > age2:
     print(age1 + " is bigger than " + age2)
 else:
-    print(age1)
+    print(age1 + " is smaller than " + age2)
 
 ########################################################################
 # Task 4:
